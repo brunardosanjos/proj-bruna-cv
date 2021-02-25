@@ -1,0 +1,30 @@
+[
+  {
+    "nome": "Senac - PE",
+    "range": "Nov/2020 a Mar/2021",
+    "desc": "Programador Web"
+    
+  },
+  {
+    "nome": "Bootcamp Reprograma",
+    "range": "Ago/2020 a Dez/2020",
+    "desc": "Desenvolvedora BeckEnd"
+    
+  },
+  {
+    "nome": "Faculdade Senac - PE",
+    "range": "Ago/2013 a Dez/2016",
+    "desc": "Tecnológo em Gatronomia"
+    
+  },
+  {
+    "nome": "Kaffe - Torrefeção e Treinamento",
+    "range": "Ago/2016",
+    "desc": "Barista"
+  },
+  {
+    "nome": "Cocktail Brasil - Bar escola",
+    "range": "Out/2019",
+    "desc": "Mixologia"
+  }
+]
